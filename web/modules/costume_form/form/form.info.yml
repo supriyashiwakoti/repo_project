@@ -1,0 +1,6 @@
+name: form
+type: module
+description: 'This is a simple costume signup form'
+package: costume
+version: 1.0.0
+core_version_requirement: ^9.2 || ^10

@@ -1,0 +1,8 @@
+name: 'Movie Directory'
+type: module
+description: 'Allows users to search movies.'
+package: custom
+core_version_requirement: ^9.2 || ^10
+dependencies:
+  # - core:core_version
+  # - core:http_client

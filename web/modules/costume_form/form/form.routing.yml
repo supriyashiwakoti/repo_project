@@ -1,0 +1,7 @@
+form.signup:
+  path: '/formsignup'
+  defaults:
+    _form: 'Drupal\form\Controller\FormController'
+    _title: 'Signup'
+  requirements:
+    _permission: 'access content'
